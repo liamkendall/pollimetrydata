@@ -6,9 +6,9 @@ Date: 2018-10-16
 Author: c(Authors@R: person("Liam", "Kendall", email = "liam.k.kendall@gmail.com",role=c("aut","cre"),
                      person("Ignasi","Bartomeus", email = "nacho.bartomeus@gmail.com",role="aut"))
 Maintainer: Liam Kendall <liam.k.kendall@gmail.com>
-Description: This is a data-only package for pollimetry. This package enhances the `bodysize` function included in pollimetry.
+Description: This is a data-only package for pollimetry. This package enhances the `bodysize` and `foraging.range` functions included in pollimetry.
 Depends:
-  R (>= 3.0.0)
+  R (>= 3.5.0)
 License: GPL (>= 2)
 LazyData: true
 RoxygenNote: 6.1.0
