@@ -4,7 +4,9 @@
 \name{hov_IT}
 \alias{hov_IT}
 \title{A BRMS model fit estimating the dry weight (mg) by intertegular distance (mm) for ~100 hoverfly species.}
-\format{An object of class \code{brmsfit} of length 19.}
+\format{
+An object of class \code{brmsfit} of length 19.
+}
 \usage{
 hov_IT
 }

@@ -4,7 +4,9 @@
 \name{bee_IT}
 \alias{bee_IT}
 \title{A BRMS model fit estimating the dry weight (mg) by intertegular distance (mm) for ~400 bee species.}
-\format{An object of class \code{brmsfit} of length 19.}
+\format{
+An object of class \code{brmsfit} of length 19.
+}
 \usage{
 bee_IT
 }

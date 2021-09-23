@@ -3,7 +3,7 @@
 Pollimetrydata: Data for pollimetry
 ==========
 
-Model fits used to estimate pollinator body size.
+Model objects used to estimate pollinator body size and bee foraging ranges.
 
 To install
 ==========

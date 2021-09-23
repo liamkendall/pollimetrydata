@@ -4,7 +4,9 @@
 \name{bee_phy_mod}
 \alias{bee_phy_mod}
 \title{A BRMS model fit estimating the dry weight (mg) by intertegular distance (mm), sex and phylogeny for ~400 bee species.}
-\format{An object of class \code{brmsfit} of length 19.}
+\format{
+An object of class \code{brmsfit} of length 19.
+}
 \usage{
 bee_phy_mod
 }

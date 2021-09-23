@@ -4,7 +4,9 @@
 \name{hov_tax_mod}
 \alias{hov_tax_mod}
 \title{A BRMS model fit estimating the dry weight (mg) by intertegular distance (mm), sex and taxonomic subfamily for ~100 hoverfly species.}
-\format{An object of class \code{brmsfit} of length 19.}
+\format{
+An object of class \code{brmsfit} of length 19.
+}
 \usage{
 hov_tax_mod
 }

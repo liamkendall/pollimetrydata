@@ -4,7 +4,9 @@
 \name{bee_tax_mod}
 \alias{bee_tax_mod}
 \title{A BRMS model fit estimating the dry weight (mg) by intertegular distance (mm), sex and taxonomic family for ~400 bee species.}
-\format{An object of class \code{brmsfit} of length 19.}
+\format{
+An object of class \code{brmsfit} of length 19.
+}
 \usage{
 bee_tax_mod
 }

@@ -4,7 +4,9 @@
 \name{hov_sex}
 \alias{hov_sex}
 \title{A BRMS model fit estimating the dry weight (mg) by intertegular distance (mm) + sex for ~100 hoverfly species.}
-\format{An object of class \code{brmsfit} of length 19.}
+\format{
+An object of class \code{brmsfit} of length 19.
+}
 \usage{
 hov_sex
 }

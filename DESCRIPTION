@@ -1,8 +1,8 @@
 Package: pollimetrydata
 Type: Package
 Title: Data package for pollimetry
-Version: 0.0.2
-Date: 2018-10-16
+Version: 1.0.0
+Date: 2021-09-23
 Author: c(Authors@R: person("Liam", "Kendall", email = "liam.k.kendall@gmail.com",role=c("aut","cre"),
                      person("Ignasi","Bartomeus", email = "nacho.bartomeus@gmail.com",role="aut"))
 Maintainer: Liam Kendall <liam.k.kendall@gmail.com>
@@ -11,4 +11,5 @@ Depends:
   R (>= 3.5.0)
 License: GPL (>= 2)
 LazyData: true
-RoxygenNote: 6.1.0
+LazyDataCompression: xz
+RoxygenNote: 7.1.2
