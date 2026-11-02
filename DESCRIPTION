@@ -1,15 +1,22 @@
 Package: pollimetrydata
 Type: Package
-Title: Data package for pollimetry
-Version: 1.0.0
-Date: 2022-02-07
-Author: c(Authors@R: person("Liam", "Kendall", email = "liam.k.kendall@gmail.com",role=c("aut","cre"),
-                     person("Ignasi","Bartomeus", email = "nacho.bartomeus@gmail.com",role="aut"))
-Maintainer: Liam Kendall <liam.k.kendall@gmail.com>
-Description: This is a data-only package for pollimetry. This package enhances the `bodysize` and `foraging.range` functions included in pollimetry.
-Depends:
-  R (>= 3.5.0)
+Title: Fitted Models for Pollinator Body Size and Foraging Range
+Version: 1.0.1
+Authors@R: c(
+    person("Liam", "Kendall", email = "liam.k.kendall@gmail.com",
+           role = c("aut", "cre")),
+    person("Ignasi", "Bartomeus", email = "nacho.bartomeus@gmail.com",
+           role = "aut"))
+Description: Fitted Bayesian models used by the body size and foraging range
+    prediction functions in 'pollimetry'. Includes models described by
+    Kendall et al. (2019) <doi:10.1002/ece3.4835> and
+    Kendall et al. (2022) <doi:10.1002/ecy.3809>.
+Depends: R (>= 3.5.0)
+Imports: brms (>= 2.23.0)
 License: GPL (>= 2)
+Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
-RoxygenNote: 7.1.2
+URL: https://github.com/liamkendall/pollimetrydata
+BugReports: https://github.com/liamkendall/pollimetrydata/issues
+Config/roxygen2/version: 8.1.1
